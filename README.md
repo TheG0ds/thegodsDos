@@ -4,4 +4,8 @@
 
 ====> Make sure Python2.7 installed.
 
+    cd TheGods/
+    
+    chmod +x TheGods.py
+    
     python2.7 TheGods.py
